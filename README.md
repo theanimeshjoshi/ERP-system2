@@ -48,11 +48,11 @@ Performance analytics for insights into student progress.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/school-website.git
+   git clone https://github.com/your-username/ERP-system2.git
 
 2. **Navigate to the project directory:**
    ```bash 
-   cd school-website
+   cd ERP-system.git
 
 3. **Install dependencies:**
     ```bash
